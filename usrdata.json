@@ -23,4 +23,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": false
   }
+    {
+        "device_id": "174630fbe3fe222d",
+        "key":doo",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    },
 ]
